@@ -1,0 +1,124 @@
+{
+  "anuncios_autos": [
+    {
+      "id": 2,
+      "descripcion": "Renault Megane 2015",
+      "titulo": "Renault Megane",
+      "transaccion": "Venta",
+      "num_kms": 120000,
+      "num_puertas": 5,
+      "potencia": 140,
+      "precio": 800000
+    },
+    {
+      "id": 4,
+      "titulo": "Ford Fiesta",
+      "transaccion": "Alquiler",
+      "descripcion": "Ford Fiesta 2011",
+      "precio": 500000,
+      "num_puertas": 5,
+      "num_kms": 30000,
+      "potencia": 120
+    },
+    {
+      "id": 5,
+      "titulo": "Jeep Renegade",
+      "transaccion": "Alquiler",
+      "descripcion": "Jeep Renegade 2018",
+      "precio": 1000000,
+      "num_puertas": 5,
+      "num_kms": 10,
+      "potencia": 120
+    },
+    {
+      "id": 6,
+      "titulo": "Volkswagen Golf",
+      "transaccion": "Venta",
+      "descripcion": "Volkswagen Golf 2019",
+      "precio": 1890000,
+      "num_puertas": 5,
+      "num_kms": 5000,
+      "potencia": 150
+    },
+    {
+      "id": 7,
+      "titulo": "Volkswagen Gol",
+      "transaccion": "Alquiler",
+      "descripcion": "Volkswagen Gol 2004",
+      "precio": 450000,
+      "num_puertas": 3,
+      "num_kms": 150000,
+      "potencia": 90
+    },
+    {
+      "id": 8,
+      "titulo": "Fiat Duna",
+      "transaccion": "Alquiler",
+      "descripcion": "Fiat Duna 1999",
+      "precio": 200000,
+      "num_puertas": 4,
+      "num_kms": 300000,
+      "potencia": 95
+    },
+    {
+      "id": 9,
+      "titulo": "VW Amarok",
+      "transaccion": "Venta",
+      "descripcion": "Volkswagen Amarok",
+      "precio": 3500000,
+      "num_puertas": 4,
+      "num_kms": 0,
+      "potencia": 180
+    },
+    {
+      "id": 10,
+      "titulo": "Ford KA",
+      "transaccion": "Alquiler",
+      "descripcion": "Ford KA 2019",
+      "precio": 50000,
+      "num_puertas": 5,
+      "num_kms": 101,
+      "potencia": 3000
+    },
+    {
+      "id": 11,
+      "titulo": "Renault Captur",
+      "transaccion": "Venta",
+      "descripcion": "Renault Captur 2017",
+      "precio": 880000,
+      "num_puertas": 5,
+      "num_kms": 60000,
+      "potencia": 142
+    },
+    {
+      "id": 12,
+      "titulo": "Ford Ranger",
+      "transaccion": "Alquiler",
+      "descripcion": "Ford Ranger 2018",
+      "precio": 15000,
+      "num_puertas": 4,
+      "num_kms": 300000,
+      "potencia": 175
+    },
+    {
+      "id": 13,
+      "titulo": "Nissan March",
+      "transaccion": "Alquiler",
+      "descripcion": "Nissan March",
+      "precio": 300000,
+      "num_puertas": 5,
+      "num_kms": 155000,
+      "potencia": 100
+    },
+    {
+      "id": 14,
+      "titulo": "Chevrolet Onix",
+      "transaccion": "Venta",
+      "descripcion": "Chevrolet Onix 2020",
+      "precio": 1500000,
+      "num_puertas": 5,
+      "num_kms": 0,
+      "potencia": 98
+    }
+  ]
+}
